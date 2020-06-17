@@ -1,7 +1,7 @@
 import logging
 
 
-class Calc:
+class Calc1:
     @staticmethod
     def class_logger(a, b):
         logging.warning("The Input Values Of A and B Are {0} and {1}".format(a, b))  # if a =123 and b=234
