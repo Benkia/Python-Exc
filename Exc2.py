@@ -1,4 +1,4 @@
-class Node(object):
+class Node1(object):
     def __init__(self, name):
         self.name = name
         self.children = []
