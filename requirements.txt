@@ -1,0 +1,21 @@
+coverage==4.0.2
+greenlet==0.4.7
+jsonpickle==0.7.0
+falcon==0.3.0
+urllib3==1.14
+sdnotify==0.3.0
+bunch
+functools32
+subprocess32
+py-cpuinfo==8.0.0
+python-hwinfo
+psutil==1.2.1
+oslo.messaging==4.0.0
+oslo.log==1.10.0
+expiringdict==1.1.4
+packaging==16.8
+cryptography==2.6.1
+dateparser
+netaddr==0.7.19
+future>=0.18.2; python_version ~= "2.7"
+six>=1.16.0
