@@ -9,7 +9,7 @@ functools32
 subprocess32
 py-cpuinfo==8.0.0
 python-hwinfo
-psutil==1.2.1
+psutil==5.9.4
 oslo.messaging==4.0.0
 oslo.log==1.10.0
 expiringdict==1.1.4
