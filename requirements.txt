@@ -10,7 +10,7 @@ subprocess32
 py-cpuinfo==8.0.0
 python-hwinfo
 psutil==1.2.1
-oslo.messaging==4.0.0
+oslo.messaging==14.1.0
 oslo.log==1.10.0
 expiringdict==1.1.4
 packaging==16.8
