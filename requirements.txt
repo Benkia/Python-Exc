@@ -12,7 +12,7 @@ python-hwinfo
 psutil==1.2.1
 oslo.messaging==4.0.0
 oslo.log==1.10.0
-expiringdict==1.1.4
+expiringdict==1.2.2
 packaging==16.8
 cryptography==2.6.1
 dateparser
