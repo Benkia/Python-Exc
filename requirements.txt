@@ -1,5 +1,5 @@
 coverage==4.0.2
-greenlet==0.4.7
+greenlet==2.0.2
 jsonpickle==0.7.0
 falcon==0.3.0
 urllib3==1.14
