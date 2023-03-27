@@ -11,7 +11,7 @@ py-cpuinfo==8.0.0
 python-hwinfo
 psutil==1.2.1
 oslo.messaging==4.0.0
-oslo.log==1.10.0
+oslo.log==5.2.0
 expiringdict==1.1.4
 packaging==16.8
 cryptography==2.6.1
