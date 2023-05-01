@@ -2,7 +2,7 @@ coverage==4.0.2
 greenlet==0.4.7
 jsonpickle==0.7.0
 falcon==0.3.0
-urllib3==1.14
+urllib3==2.0.1
 sdnotify==0.3.0
 bunch
 functools32
